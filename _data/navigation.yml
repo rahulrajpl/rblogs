@@ -1,4 +1,6 @@
 - name: Home
+  link: http://randomwalk.in
+- name: Blogs
   link: /index.html
 - name: About
   link: /about.html
